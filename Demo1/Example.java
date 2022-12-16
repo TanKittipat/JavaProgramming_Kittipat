@@ -4,6 +4,6 @@ public class Example {
 		myMethod();
     }
 	public static void myMethod(){
-		System.out.println("Kittipat Choowongwan")
+		System.out.println("Kittipat Choowongwan");
 	}
 }
