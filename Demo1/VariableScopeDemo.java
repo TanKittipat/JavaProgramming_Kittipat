@@ -8,7 +8,7 @@ public class VariableScopeDemo {
 
     public void method2() {
         int j = 0; // local variable
-        System.out.println(i);
+        System.out.println(j);
         // calling an object variable i
         // System.out.println(k); // illegal
     }
